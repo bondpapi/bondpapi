@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael Bond
 - 👀 I’m interested in data analytics and data science
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on machine learning projects and predictive modules.
+- 🌱 I’m currently building an automated learning AI assistant
+- 💞️ I’m looking to work and collaborate on Data Analytics, Data science and AI engineering roles.
 - 📫 How to reach me manomichael24@gmail.com
 
 <!---
